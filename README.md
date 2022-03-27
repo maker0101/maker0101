@@ -2,9 +2,9 @@
 
 
 <p>I'm Max, Frontend Developer and Entrepreneur from <img src="https://flagcdn.com/16x12/de.png" width="13"/> <b>Berlin, Germany.</b></p>
-<p>I fell in love with coding somewhat late in life. Now that I did, I feel like a fish 🐟 in water 🌊.</p>
-<h3>Things I code with</h3>
+<p>Discovered my passion for coding somewhat late in life. Now that I did, I feel like a fish 🐟 in water 🌊.</p>
 
+<h3>Technologies</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
@@ -22,9 +22,14 @@
   <img alt="vs code" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white" />
 </p>
 
-<h3>Things I'm currently exploring</h3>
+<h3>Currently exploring</h3>
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white" />
   <img alt="Testing Library" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat-square&logo=testing-library&logoColor=white" />
+</p>
+
+<h3>Coding projects</h3>
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 </p>
