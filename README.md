@@ -36,13 +36,13 @@
   <tbody>
     <tr>
       <td>
-        <img width="550px" alt="Coinbase Clone Preview" src="coinbase-clone-preview.jpg" />
+        <img width="480px" alt="Coinbase Clone Preview" src="coinbase-clone-preview-new.jpg" />
         <a href="https://google.com">Go to live app</a> | <a href="https://google.com">See code</a> | (Feb - Mar 2022)
         <h4>Coinbase Clone</h4>
         <p>Simplified Coinbase Clone build with React, Typescript and Firebase. Tested with Jest/React Testing Library.</p>
       </td>
       <td>
-        <img width="550px" alt="Todoist Clone Preview" src="todoist-clone-preview.jpg" />
+        <img width="472px" alt="Todoist Clone Preview" src="todoist-clone-preview.jpg" />
         <a href="https://todoist-clone.com/">Go to live app</a> | <a href="https://github.com/maker0101/Todoist_Clone">See code</a> | (Dec 2021 - Jan 2022)
         <h4>Todoist Clone</h4> 
         <p>A simplified Todoist clone built with React and Firebase. End-to-End Testing with Cypress.</p>
