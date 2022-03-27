@@ -30,6 +30,25 @@
 </p>
 
 <h3>Coding projects</h3>
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<p>  
+  <table>
+  <tbody>
+    <tr>
+      <td>
+        <img width="550px" height="300px" alt="Coinbase Clone Preview" src="coinbase-clone-preview.jpg" />
+        <a href="https://google.com">Go to live app</a> | <a href="https://google.com">See code</a>
+        <h4>Coinbase Clone</h4>
+        <p>Simplified Coinbase Clone build with React, Typescript and Firebase. Tested with Jest/React Testing Library.</p>
+      </td>
+      <td>
+        <img width="550px" height="300px" alt="Todoist Clone Preview" src="todoist-clone-preview.jpg" />
+        <a href="https://todoist-clone.com/">Go to live app</a> | <a href="https://github.com/maker0101/Todoist_Clone">See code</a>
+        <h4>Todoist Clone</h4> 
+        <p>A simplified Todoist clone built with React and Firebase. End-to-End Testing with Cypress.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+  
+  
 </p>
