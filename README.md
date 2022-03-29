@@ -25,6 +25,7 @@
 
 Currently exploring:
 <p>
+  <img alt="Next JS" src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white" />
   <img alt="Testing Library" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat-square&logo=testing-library&logoColor=white" />
@@ -39,7 +40,7 @@ Currently exploring:
         <img width="480px" alt="Coinbase Clone Preview" src="coinbase-clone-preview-new.jpg" />
         <a href="https://google.com">Go to live app</a> | <a href="https://google.com">See code</a> | (Feb - Mar 2022)
         <h3>Coinbase Clone</h3>
-        <p>Simplified Coinbase Clone build with React, Typescript and Firebase. Tested with Jest/React Testing Library.</p>
+        <p>Simplified Coinbase Clone built with React, Typescript and Firebase. Tested with Jest/React Testing Library.</p>
       </td>
       <td>
         <img width="472px" alt="Todoist Clone Preview" src="todoist-clone-preview.jpg" />
