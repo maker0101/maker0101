@@ -2,7 +2,8 @@
 
 
 <p>I'm Max, Frontend Developer and Entrepreneur from <img src="https://flagcdn.com/16x12/de.png" width="13"/> <b>Berlin, Germany.</b></p>
-<p>Discovered my passion for coding somewhat late in life. Now that I did, I feel like a fish 🐟 in water 🌊.</p>
+<p>I've co-founded two companies and worked as an International Business Consultant 👔.</p>
+<p>Then I discovered my true passion: Writing code. Now that I did, I feel like a fish 🐟 in water 🌊.</p>
 
 <h2>Technologies</h2>
 <p>
@@ -37,13 +38,13 @@ Currently exploring:
   <tbody>
     <tr>
       <td>
-        <img width="480px" alt="Coinbase Clone Preview" src="coinbase-clone-preview-new.jpg" />
-        <a href="https://google.com">Go to live app</a> | <a href="https://google.com">See code</a> | (Feb - Mar 2022)
+        <img width="480px" alt="Coinbase Clone Preview" src="coinbase-preview-github-profile.jpg" />
+        <a href="https://coinbase-clone.com/">Go to live app</a> | <a href="https://github.com/maker0101/Coinbase_Clone">See code</a> | (Feb - Mar 2022)
         <h3>Coinbase Clone</h3>
-        <p>Simplified Coinbase Clone built with React, Typescript and Firebase. Tested with Jest/React Testing Library.</p>
+        <p>Simplified Coinbase Clone built with React, JavaScript and Firebase. Real-time data from Coinranking API.</p>
       </td>
       <td>
-        <img width="472px" alt="Todoist Clone Preview" src="todoist-clone-preview.jpg" />
+        <img width="472px" alt="Todoist Clone Preview" src="todoist-preview-github-profile.jpg" />
         <a href="https://todoist-clone.com/">Go to live app</a> | <a href="https://github.com/maker0101/Todoist_Clone">See code</a> | (Dec 2021 - Jan 2022)
         <h3>Todoist Clone</h3> 
         <p>A simplified Todoist clone built with React and Firebase. End-to-End Testing with Cypress.</p>
@@ -51,6 +52,13 @@ Currently exploring:
     </tr>
   </tbody>
 </table>
+
+<h2>Contact me</h2>
+<ul>
+  <li>Website: <a href="https://www.maxbreitsprecher.com/">maxbreitsprecher.com</a></li>
+  <li>Email: <a href='mailto:max.breitsp@gmail.com?subject=Hi%20Max%20👋'>max.breitsp@gmail.com</a></li>
+  <li>Github profile: <a href="https://github.com/maker0101">github.com/maker0101</a></li>
+</ul>
   
   
 </p>
