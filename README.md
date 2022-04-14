@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>I'm Max, Frontend Developer and Entrepreneur from <img src="https://flagcdn.com/16x12/de.png" width="13"/> <b>Berlin, Germany.</b></p>
+<p>I'm Max, a Frontend Developer, and Entrepreneur from <img src="https://flagcdn.com/16x12/de.png" width="13"/> <b>Berlin, Germany.</b></p>
 <p>I've co-founded two companies and worked as an International Business Consultant 👔.</p>
 <p>Then I discovered my true passion: Writing code. Now that I did, I feel like a fish 🐟 in water 🌊.</p>
 
@@ -41,7 +41,7 @@ Currently exploring:
         <img width="480px" alt="Coinbase Clone Preview" src="coinbase-preview-github-profile.jpg" />
         <a href="https://coinbase-clone.com/">Go to live app</a> | <a href="https://github.com/maker0101/Coinbase_Clone">See code</a> | (Feb - Mar 2022)
         <h3>Coinbase Clone</h3>
-        <p>Simplified Coinbase Clone built with React, JavaScript and Firebase. Real-time data from Coinranking API.</p>
+        <p>Simplified Coinbase Clone built with React, JavaScript, and Firebase. Real-time data from Coinranking API.</p>
       </td>
       <td>
         <img width="472px" alt="Todoist Clone Preview" src="todoist-preview-github-profile.jpg" />
