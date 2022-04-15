@@ -44,7 +44,7 @@ Currently exploring:
         <p>Simplified Coinbase Clone built with React, JavaScript, and Firebase. Real-time data from Coinranking API.</p>
       </td>
       <td>
-        <img width="472px" alt="Todoist Clone Preview" src="todoist-preview-github-profile.jpg" />
+        <img width="465px" alt="Todoist Clone Preview" src="todoist-preview-github-profile.jpg" />
         <a href="https://todoist-clone.com/">Go to live app</a> | <a href="https://github.com/maker0101/Todoist_Clone">See code</a> | (Dec 2021 - Jan 2022)
         <h3>Todoist Clone</h3> 
         <p>A simplified Todoist clone built with React and Firebase. End-to-End Testing with Cypress.</p>
