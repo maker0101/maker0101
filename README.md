@@ -3,7 +3,7 @@
 
 <p>I'm Max, a frontend developer, and entrepreneur from <img src="https://flagcdn.com/16x12/de.png" width="13"/> <b>Berlin, Germany.</b></p>
 <p>I co-founded <b>two companies</b> and have worked as an international business consultant 👔.</p>
-<p>Then I discovered my true passion: <b>writing code<b> 💾.</p>
+<p>Then I discovered my true passion: <b>writing code</b> 💾.</p>
 
 <h2>Technologies</h2>
 <p>
