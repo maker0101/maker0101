@@ -1,9 +1,10 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>I'm Max, a Frontend Developer, and Entrepreneur from <img src="https://flagcdn.com/16x12/de.png" width="13"/> <b>Berlin, Germany.</b></p>
-<p>I've co-founded two companies and worked as an International Business Consultant 👔.</p>
-<p>Then I discovered my true passion: Writing code. Now that I did, I feel like a fish 🐟 in water 🌊.</p>
+<p>I'm Max, a frontend developer, and entrepreneur from <img src="https://flagcdn.com/16x12/de.png" width="13"/> <b>Berlin, Germany.</b></p>
+<p>I co-founded two companies and have worked as an international business consultant 👔.</p>
+<p>Then I discovered my true passion: writing code. After discovering coding, I feel like a fish 🐟 reunited with water 🌊.
+</p>
 
 <h2>Technologies</h2>
 <p>
