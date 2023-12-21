@@ -5,7 +5,7 @@
 <p>I co-founded <b>two companies</b> and have worked as an international business consultant 👔.</p>
 <p>Then I discovered my true passion: <b>writing code</b> 💾.</p>
 
-<h2>Technologies</h2>
+<h2>Favorite technologies</h2>
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
