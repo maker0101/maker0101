@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>I'm Max, a frontend developer, and entrepreneur from <img src="https://flagcdn.com/16x12/de.png" width="13"/> <b>Berlin, Germany.</b></p>
+<p>I'm Max, a fullstack engineer, and entrepreneur from <img src="https://flagcdn.com/16x12/de.png" width="13"/> <b>Berlin, Germany.</b></p>
 <p>I co-founded <b>two companies</b> and have worked as an international business consultant 👔.</p>
 <p>Then I discovered my true passion: <b>writing code</b> 💾.</p>
 
